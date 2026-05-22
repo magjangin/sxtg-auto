@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36705.20 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sxtg auto", "sxtg auto\sxtg auto.csproj", "{6F012211-1602-4486-8144-6DD4AC60BA12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F012211-1602-4486-8144-6DD4AC60BA12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F012211-1602-4486-8144-6DD4AC60BA12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F012211-1602-4486-8144-6DD4AC60BA12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F012211-1602-4486-8144-6DD4AC60BA12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4918A444-E813-47D0-A34E-5FE954BA9EE0}
+	EndGlobalSection
+EndGlobal
